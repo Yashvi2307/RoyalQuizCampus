@@ -5,3 +5,12 @@ This repository contains the source code for the quiz android application develo
 ## Technologies used:
 * Language: Java
 * Database: SQLite
+
+## Author
+
+Miss Yashvi Parikh
+
+## Credits
+
+Ms. Aarti Patel, Mentor
+Mr. Het Parekh, Team-mate
