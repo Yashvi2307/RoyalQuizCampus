@@ -12,5 +12,5 @@ Miss Yashvi Parikh
 
 ## Credits
 
-Ms. Aarti Patel, Mentor
+Ms. Aarti Patel, Mentor </br>
 Mr. Het Parekh, Team-mate
