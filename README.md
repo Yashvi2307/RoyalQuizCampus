@@ -29,6 +29,7 @@ To make it a responsive design took a toll. We managed to have a breakpoint of 3
 
 * Extend the database to various freshly learned topics
 * Include levels
+* Make it hybrid
 
 ## Drawbacks
 
@@ -42,8 +43,9 @@ To make it a responsive design took a toll. We managed to have a breakpoint of 3
 4. Random questions at each play
 5. Can be played offline
 6. Database to store questions
-7. Good and extensible UI
-8. Compatible with Android API-15 and above
+7. Native android app
+8. Good and extensible UI
+9. Compatible with Android API-15 and above
 
 ## Author
 
