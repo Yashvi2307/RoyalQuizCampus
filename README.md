@@ -13,7 +13,8 @@ The reason we chose this project was to engage the young kids at [Royal Technoso
 
 ## Main Functionalities
 
-This project has immensely helped the clients of Royal Technosoft (young kids) to check their GK. During the short breaks between the ongoing sessions this app acted as a good source of knowledge for the kids and also provided a playful environment to them. Quite often they would learn something new and compete with their peers. This activity also acted as an inspiration to learn and do better next time.
+This project has immensely helped the clients of Royal Technosoft (young kids) to check their GK. During the short breaks between the ongoing sessions this app acted as a good source of knowledge for the kids and also provided a playful environment to them. Quite often they would learn something new and compete with their peers. </br>
+This activity also acted as an inspiration for the continuous process of learning and improving.
 
 ## Technologies used:
 * Language: Java
@@ -28,12 +29,12 @@ To make it a responsive design took a toll. We managed to have a breakpoint of 3
 ## Improvements and Future Scope
 
 * Extend the database to various freshly learned topics
-* Include levels
+* Include various levels in the game
 * Make it hybrid
 
 ## Drawbacks
 
-* Cannot create and acount and store previous data
+* Cannot create an account and store previous data
 * Doesn't give a chance to continue once the players chooses an incorrect answer
 
 ## Other Details
